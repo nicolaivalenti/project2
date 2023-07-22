@@ -1,4 +1,4 @@
-import testing code #heyyyyy
+import testing
 number = input("scrivi \n")
 print("hai scritto: \n" + number)
 
